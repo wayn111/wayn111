@@ -1,4 +1,0 @@
-- 🔭 I’m currently working on china hubei xianning fphd
-- 🌱 I’m currently learning java、php
-- 👯 I’m looking to collaborate on community、study、part-time
-- 📫 How to reach me: 1669738430@qq.com
